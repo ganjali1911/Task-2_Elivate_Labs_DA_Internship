@@ -3,8 +3,7 @@
 **Created by: Anjali Gupta**
 
 ## Project Overview
-This project is part of the Data Analyst Internship Task 2, where the objective is to create meaningful visualizations and present a clear data story using Power BI.  
-The dataset used is **Superstore Sales Data**, which includes sales, profit, quantity, category, state, and region information.
+This project is part of the Data Analyst Internship Task 2, where the objective is to create meaningful visualizations and present a clear data story using Power BI. The dataset used is **Superstore Sales Data**, which includes sales, profit, quantity, category, state, and region information.
 
 ## Task Objective
 - Create a set of visualizations using the correct chart types  
