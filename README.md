@@ -55,13 +55,7 @@ The dataset used is **Superstore Sales Data**, which includes sales, profit, qua
 - Power BI Template File (.pbit) 
 - README.md (this file)
 
-## 📬 How to View the Dashboard
-1. Open **Power BI Desktop**  
-2. Load `Task2_PowerBI_AnjaliGupta.pbit`  
-3. Select the Superstore dataset 
-4. All visuals will automatically load into the dashboard  
-
-## 🙌 Author
+## Author
 **Anjali Gupta**  
 Data Analyst Intern
 
