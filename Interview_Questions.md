@@ -33,7 +33,7 @@ Ans: Data storytelling is the process of combining data, visualizations, and ins
 
 Ans:
 
-- Use proper scales (don’t start bar charts at random values)
+- Use proper scales, don’t start bar charts at random values
 - Avoid too many colors or confusing designs
 - Don’t exaggerate differences
 - Label charts clearly
@@ -56,4 +56,4 @@ Ans:
 
 Ans: I have used:
 
-- Power BI – for creating dashboards, reports, and interactive visualizations.
+- Power BI for creating dashboards, reports, and interactive visualizations.
